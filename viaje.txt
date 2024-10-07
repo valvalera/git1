@@ -6,4 +6,5 @@ nño
 pqr
 stu
 vwx
+<<<<<<< HEAD
 master hace cambio en la línea 2
